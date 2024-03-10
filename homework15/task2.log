@@ -1,0 +1,9 @@
+INFO:__main__:[INFO] Query started
+INFO:__main__:DirItem(name='task2', ext=None, is_dir=True, parent='D:\\Kira\\Обучение Python\\3 четверть\\1.Погружение в Python\\HW15\\homework15')
+INFO:__main__:DirItem(name='task2', ext='.log', is_dir=False, parent='D:\\Kira\\Обучение Python\\3 четверть\\1.Погружение в Python\\HW15\\homework15')
+INFO:__main__:[INFO] Query ended
+INFO:__main__:[INFO] Query started
+INFO:__main__:DirItem(name='.pytest_cache', ext=None, is_dir=True, parent='D:\\Kira\\Обучение Python\\3 четверть\\1.Погружение в Python\\HW15\\homework15')
+INFO:__main__:DirItem(name='task2', ext=None, is_dir=True, parent='D:\\Kira\\Обучение Python\\3 четверть\\1.Погружение в Python\\HW15\\homework15')
+INFO:__main__:DirItem(name='task2', ext='.log', is_dir=False, parent='D:\\Kira\\Обучение Python\\3 четверть\\1.Погружение в Python\\HW15\\homework15')
+INFO:__main__:[INFO] Query ended
